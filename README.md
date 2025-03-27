@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am a front-end engineer working at @angelswing.io<br>I have the expertise in react.js and three-js.<br>I like building websites that solves user pain points.<br>I am obsessed with optimization and performance.
+# 💫 About Me:  
+🚀 Front-end Engineer at [@angelswing.io](https://angelswing.io)  
+⚛️ Expertise in **React.js** & 🎨 **Three.js**  
+🛠️ Love building websites that **solve user pain points**  
+⚡ Obsessed with **optimization & performance**  
+
 
 
 ## 🌐 Socials:
